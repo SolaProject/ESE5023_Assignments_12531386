@@ -39,7 +39,7 @@ fig.savefig("./images/PS4_1_figure1.jpg", bbox_inches="tight", dpi=300)
 
 最终得到绘图结果如下：
 
-<img src="/Users/zhouxu/Su-A-学习/a-课程/博士生课程/20250910-环境科学研究中的计算与编程/ESE5023_Assignments_12531386/images/PS4_1_figure1.jpg" style="width: 66%;" />
+<img src="images/PS4_1_figure1.jpg" style="width: 66%;" />
 
 题目版本：
 
@@ -116,7 +116,7 @@ ax.text(0.98, 0.03, "Created: 2025-11-26 21:34:53", transform=ax.transAxes, hori
 fig.savefig("./images/PS4_2_figure1.jpg", bbox_inches="tight", dpi=300)
 ```
 
-<img src="/Users/zhouxu/Su-A-学习/a-课程/博士生课程/20250910-环境科学研究中的计算与编程/ESE5023_Assignments_12531386/images/PS4_2_figure1.jpg" style="width: 90%;" />
+<img src="images/PS4_2_figure1.jpg" style="width: 90%;" />
 
 ### 2.2 [10 points]
 
@@ -156,4 +156,4 @@ ax.text(0.03, 0.05, "Created: 2025-12-09", transform=ax.transAxes, horizontalali
 fig.savefig("./images/PS4_2_figure2.jpg", bbox_inches="tight", dpi=300)
 ```
 
-<img src="/Users/zhouxu/Su-A-学习/a-课程/博士生课程/20250910-环境科学研究中的计算与编程/ESE5023_Assignments_12531386/images/PS4_2_figure2.jpg" style="width: 66%;" />
+<img src="images/PS4_2_figure2.jpg" style="width: 66%;" />
